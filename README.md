@@ -16,4 +16,3 @@
 
 ### 📫 Connect with Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shrinidhiacharya/)
-- Portfolio: [Your Website](https://yourwebsite.com)
