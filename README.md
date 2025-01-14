@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Shri!
 
-<!--
-**nidhiname/nidhiname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- Senior Software Engineer with 10+ years of experience in building scalable and robust solutions.
+- Proficient in **C#, .NET Core, JavaScript**, and **Azure Cloud**.
+- Passionate about **Software Architecture**, **Open Source**, and mentoring developers.
 
-Here are some ideas to get you started:
+### 🛠️ My Skills
+- **Languages**: C#, JavaScript, SQL
+- **Frameworks**: .NET Core, React, Node.js
+- **Cloud**: Azure, AWS
+- **Tools**: Git, DevOps, Postman, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- AI Development using .NET Core.
+
+### 📫 Connect with Me
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shrinidhiacharya/)
+- Portfolio: [Your Website](https://yourwebsite.com)
